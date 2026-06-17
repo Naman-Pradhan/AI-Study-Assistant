@@ -13,3 +13,6 @@ A simple Python project that generates a 5-day study plan and practice questions
 
 ## Author
 Naman Pradhan
+## Sample Output
+
+![Output](output.png)
